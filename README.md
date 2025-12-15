@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋 I'm Dev.T4ZZY
 
-<!--
-**DevT4ZZY/DevT4ZZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Beginner Backend Developer | Python Learner  
+💻 Passionate about learning how the web works behind the scenes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Python** and backend development
+- 🛠️ I enjoy building small projects to improve my skills
+- 🎯 My goal is to become a strong backend developer
+- 📚 Always curious about how things work
+
+---
+
+### 🔧 Tools & Technologies
+- 💡 Languages: **Python**, HTML
+- 🛠️ Tools: Git, GitHub, VS Code
+- 📦 Currently learning: Flask / Django (soon)
+
+---
+
+### 🤝 Looking For
+- 🤝 Beginner-friendly collaboration
+- 🧠 Help and guidance in backend development
+- 💬 Learning buddies to grow together
+
+---
+
+### 📫 How to Reach Me
+- GitHub: **https://github.com/DevT4ZZY**
+- Email: tasdikrahman68@gmail.com
+
+---
+
+### ⚡ Fun Fact
+I believe consistency beats talent 💪
+
